@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👨‍💻 Profesional apasionado por el desarrollo de software, gestión de redes y sistemas computacionales.  <br>🚀 Transformando ideas en código desde que descubrí mi primer bug.  <br>📚 Actualmente aprendiendo nuevas tecnologías para mejorar mis proyectos.  <br>🎯 Metas: Crear soluciones eficientes y seguras para el mundo digital.  <br>🎲 Dato curioso: ¡Siempre encuentro la solución justo cuando dejo de buscarla!</p>
+<p align="left">👨‍💻 Profesional apasionado por el desarrollo de software, gestión de redes y sistemas computacionales.  <br>🚀 Transformando ideas en código desde que descubrí mi primer bug.  <br>📚 Actualmente aprendiendo nuevas tecnologías para mejorar mis proyectos.  <br>🎯 Metas: Crear soluciones eficientes y seguras para el mundo digital. </p>
 
 ###
 
